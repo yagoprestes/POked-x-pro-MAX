@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Abra o endereço exibido no terminal (normalmente http://localhost:5173).
+Abra o endereço exibido no terminal https://yagoprestes.github.io/POked-x-pro-MAX/
 
 ## Recursos
 
